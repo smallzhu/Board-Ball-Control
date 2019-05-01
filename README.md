@@ -9,5 +9,18 @@
 
 找到球的上下左右四个点后就能确定圆心坐标，但是我发现我寻找球左边最左边的点会有问题，找不到，于是就只有用三个点来寻找圆心坐标，效果依然很好。
 
-因为我们是比赛当天才开始调，所以PID部分没有加进去，还有一些代码没有完善。
+因为我们是比赛当天才开始调，所以PID部分没有加进去，还有一些代码没有完善.
 
+板球结构
+
+![image](https://github.com/smallzhu/Board-Ball-Control/blob/master/images/board.jpg)
+
+![image](https://github.com/smallzhu/Board-Ball-Control/blob/master/images/structure.jpg)
+
+LCD显示效果
+
+![image](https://github.com/smallzhu/Board-Ball-Control/blob/master/images/LCD.jpg)
+
+主
+
+![image](https://github.com/smallzhu/Board-Ball-Control/blob/master/images/general.jpg)
