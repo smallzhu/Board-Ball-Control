@@ -21,6 +21,6 @@ LCD显示效果
 
 ![image](https://github.com/smallzhu/Board-Ball-Control/blob/master/images/LCD.jpg)
 
-主
+主板
 
 ![image](https://github.com/smallzhu/Board-Ball-Control/blob/master/images/general.jpg)
